@@ -1,0 +1,4 @@
+movie-this, frozen
+
+
+{"title":"Frozen","year":"2013","imdb_rating":"7.5","rotten_tomato":"90%","country":"USA","language":"English, Norwegian","plot":"When the newly-crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister Anna teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.","actor":"Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad"}
